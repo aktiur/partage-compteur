@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="600"
+   viewBox="0 0 158.74998 158.74998"
+   version="1.1"
+   id="svg61960"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="compteur.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview61962"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0847519"
+     inkscape:cx="335.09966"
+     inkscape:cy="232.77212"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g63274" />
+  <defs
+     id="defs61957">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1628"
+       id="radialGradient1632"
+       cx="28.388119"
+       cy="57.238262"
+       fx="28.388119"
+       fy="57.238262"
+       r="42.970474"
+       gradientTransform="matrix(0,1.8728431,-2.3459709,0,188.00939,-24.327037)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1628">
+      <stop
+         style="stop-color:#321d64;stop-opacity:1;"
+         offset="0.1"
+         id="stop1624" />
+      <stop
+         style="stop-color:#c82e79;stop-opacity:1;"
+         offset="0.81999999"
+         id="stop1737" />
+      <stop
+         style="stop-color:#d33238;stop-opacity:1;"
+         offset="1"
+         id="stop1626" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g63274"
+       transform="matrix(2.6458333,0,0,2.6458333,-141.6951,-76.049833)">
+      <rect
+         style="fill:url(#radialGradient1632);fill-opacity:1;fill-rule:nonzero;stroke-width:0.547931;stroke-linecap:round;stroke-linejoin:round"
+         id="rect920"
+         width="60"
+         height="60"
+         x="53.554054"
+         y="28.743244" />
+      <rect
+         style="fill:#fffafa;fill-opacity:1;fill-rule:nonzero;stroke:#9d8fbc;stroke-width:0.279212;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19169"
+         width="49.621586"
+         height="37.0359"
+         x="58.743263"
+         y="32.213989" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9c8fbc;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="73.475861"
+         y="38.246487"
+         id="text21457"><tspan
+           sodipodi:role="line"
+           id="tspan21455"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.23333px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9c8fbc;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="73.475861"
+           y="38.246487">Le 7 mars</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:slnt;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="83.511955"
+         y="48.522156"
+         id="text22253"
+         inkscape:label="compteur"><tspan
+           sodipodi:role="line"
+           id="tspan22251"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46667px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:center;text-anchor:middle;fill:#321d64;fill-opacity:1;stroke-width:0.264583"
+           x="83.511955"
+           y="48.522156">140 434</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffee0f;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.483047,66.25979 c 8.718602,-2.182747 21.692997,-2.389587 26.136619,-2.477475"
+         id="path39455"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:slnt;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="69.386848"
+         y="61.126427"
+         id="text22253-4"><tspan
+           sodipodi:role="line"
+           id="tspan22251-2"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';fill:#321d64;fill-opacity:1;stroke-width:0.264583"
+           x="69.386848"
+           y="61.126427">EN GRÈVE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:slnt;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9c8fbc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="76.156265"
+         y="53.425232"
+         id="text31002"><tspan
+           sodipodi:role="line"
+           id="tspan31000"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#9c8fbc;fill-opacity:1;stroke-width:0.264583"
+           x="76.156265"
+           y="53.425232">personnes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:slnt;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="58.07449"
+         y="79.158813"
+         id="text46768"><tspan
+           sodipodi:role="line"
+           id="tspan46766"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Heavy';fill:#ffffff;stroke-width:0.264583"
+           x="58.07449"
+           y="79.158813">Et toi ?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:slnt;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e4e4fc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="80.258255"
+         y="85.284103"
+         id="text46772"><tspan
+           sodipodi:role="line"
+           id="tspan46770"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';fill:#e4e4fc;fill-opacity:1;stroke-width:0.264583"
+           x="80.258255"
+           y="85.284103">#CompteurDeGrève</tspan></text>
+      <path
+         style="fill:none;stroke:#9d8fbc;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 63.788405,52.77168 H 74.35465"
+         id="path54760" />
+      <path
+         style="fill:none;stroke:#9d8fbc;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 92.675275,52.77168 H 103.24152"
+         id="path54760-3" />
+    </g>
+  </g>
+</svg>
