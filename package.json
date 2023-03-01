@@ -1,11 +1,17 @@
 {
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
+    "@11ty/eleventy": "^2.0.0",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
   },
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"
   },
   "dependencies": {
+    "@resvg/resvg-js": "^2.4.1",
+    "satori": "^0.4.0",
+    "satori-html": "^0.3.2"
   }
 }

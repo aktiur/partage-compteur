@@ -108,7 +108,7 @@
            id="tspan22251"
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46667px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:center;text-anchor:middle;fill:#321d64;fill-opacity:1;stroke-width:0.264583"
            x="83.511955"
-           y="48.522156">140 434</tspan></text>
+           y="48.522156">{{ compteur }}</tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#ffee0f;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 70.483047,66.25979 c 8.718602,-2.182747 21.692997,-2.389587 26.136619,-2.477475"

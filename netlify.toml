@@ -1,0 +1,5 @@
+[functions]
+# problèmes d'import de satori en utilisant le bundler par défaut
+node_bundler = "esbuild"
+external_node_modules = ["@resvg/resvg-js"]
+included_files = ["netlify/functions/assets/*"]
