@@ -1,5 +1,6 @@
 import fs from 'fs';
 
+import fetch from 'node-fetch';
 import satori from 'satori';
 import { html } from 'satori-html';
 import { Resvg } from '@resvg/resvg-js';
