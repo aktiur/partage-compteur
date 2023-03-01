@@ -5,6 +5,8 @@ import satori from 'satori';
 import { html } from 'satori-html';
 import { Resvg } from '@resvg/resvg-js';
 
+import { builder } from '@netlify/functions';
+
 // on pourra virer toutes les fontes qu'on utilise pas
 const FONTS = [
   {
@@ -128,7 +130,7 @@ function loadFonts() {
   });
 }
 
-exports.handler = async function (event, context) {
+const generator = async function (event, context) {
   const baseHTML = fs.readFileSync(`${__dirname}/assets/social.html`).toString();
   const fonts = loadFonts();
 
@@ -151,10 +153,14 @@ exports.handler = async function (event, context) {
     statusCode: 200,
     headers: {
       'Content-Type': 'image/png',
-      //  'Content-Type': 'text/plain',
-      // 'Cache-Control': 's-maxage=60',
+      'Cache-Control': 's-maxage=600',
     },
     body: pngBuffer.toString('base64'),
     isBase64Encoded: true,
+    ttl: 600,
   };
 };
+
+const handler = builder(generator);
+
+export { handler };
